@@ -19,7 +19,7 @@ Esse desafio foi bastante legal e desafiador em algumas partes mas conseguir faz
 
 ## Stack utilizada
 
-**Front-end:** React, tailwind, axios e mui
+**Front-end:** React, NextJs, Tailwind, Axios e Mui
 
 ## Screenshots
 
